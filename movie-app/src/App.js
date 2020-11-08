@@ -3,6 +3,7 @@ import './App.css';
 import Picture from './Picture'
 import MovieContainer from './MovieContainer'
 
+// Componente principal do Projeto
 function App() {
   return (
     <div className="App">

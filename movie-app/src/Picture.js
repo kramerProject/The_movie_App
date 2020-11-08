@@ -1,7 +1,6 @@
 import React from 'react';
 import Img from './ozzy.jpg'
 
-
 class Picture extends React.Component {
 
   render() {

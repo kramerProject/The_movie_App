@@ -23,7 +23,7 @@ com seus gostos.
 * Ter comentários para melhor entendimento do código
 * API para ser utilizada para listagem dos Filmes: _[clique aqui](https://developers.themoviedb.org/3/getting-started/introduction) 
 
-# Obs: Projeto foi desenvolvido em React, os arquivos pertinentes estão localizados na pasta src.
+# Obs: Projeto foi desenvolvido em React, os arquivos pertinentes estão localizados na pasta movie-app/src.
 
 # Estruturação:
 
@@ -39,7 +39,7 @@ com seus gostos.
 
 # Para rodar o projeto
 
-Op1. Acesse uma versão do projeto em Javascript clicando _[aqui]()
+Op1. Acesse uma versão do projeto em Javascript clicando [aqui]()
 
 Op2. Baixar o projeto na máquina e seguir os passos abaixo.
 

@@ -1,7 +1,7 @@
 import React from 'react'
 
 class MovieList extends React.Component {
-
+  // Adicionando evento de click as imagens dos filmes, inclui uma classe rated para o elemento de classe (movie-item) que contem as informações dos filmes (titulo, imagem e id do genêro). Além disso inclui um novo paragrafo com o icone thumbs up. 
   ImageClick = (event) => {
     const parent = event.target.parentNode
 
