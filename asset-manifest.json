@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/The_movie_App/static/css/main.6d945744.chunk.css",
+    "main.js": "/The_movie_App/static/js/main.e21c3bfb.chunk.js",
+    "main.js.map": "/The_movie_App/static/js/main.e21c3bfb.chunk.js.map",
+    "runtime-main.js": "/The_movie_App/static/js/runtime-main.8a79f577.js",
+    "runtime-main.js.map": "/The_movie_App/static/js/runtime-main.8a79f577.js.map",
+    "static/js/2.41f66b4f.chunk.js": "/The_movie_App/static/js/2.41f66b4f.chunk.js",
+    "static/js/2.41f66b4f.chunk.js.map": "/The_movie_App/static/js/2.41f66b4f.chunk.js.map",
+    "static/js/3.c136a692.chunk.js": "/The_movie_App/static/js/3.c136a692.chunk.js",
+    "static/js/3.c136a692.chunk.js.map": "/The_movie_App/static/js/3.c136a692.chunk.js.map",
+    "index.html": "/The_movie_App/index.html",
+    "static/css/main.6d945744.chunk.css.map": "/The_movie_App/static/css/main.6d945744.chunk.css.map",
+    "static/js/2.41f66b4f.chunk.js.LICENSE.txt": "/The_movie_App/static/js/2.41f66b4f.chunk.js.LICENSE.txt",
+    "static/media/ozzy.17d9e5e0.jpg": "/The_movie_App/static/media/ozzy.17d9e5e0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a79f577.js",
+    "static/js/2.41f66b4f.chunk.js",
+    "static/css/main.6d945744.chunk.css",
+    "static/js/main.e21c3bfb.chunk.js"
+  ]
+}
