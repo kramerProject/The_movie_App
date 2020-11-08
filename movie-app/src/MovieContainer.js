@@ -17,7 +17,9 @@ class MovieContainer extends React.Component {
   // A api faz a busca dos filmes por genero(o 
   //que foi curtido pelo usuário), popularidade e lançamento em 2019.
   fetchFavorites = (number) => {
-    const endPoint = `https://api.themoviedb.org/3/discover/movie?api_key=52d3e97323f3329ba592b46f79041c81&language=en-US&sort_by=popularity.desc&include_adult=false&include_video=false&with_genres=${number}&primary_release_year=2019&page=1`
+    const endPoint = `https://api.themoviedb.org/3/discover/movie?
+    api_key=52d3e97323f3329ba592b46f79041c81&language=en-US&sort_by=popularity.desc&
+    include_adult=false&include_video=false&with_genres=${number}&primary_release_year=2019&page=1`
     fetch(endPoint)
       .then(data => data.json())
       .then(data => this.handleMovieData(data))
