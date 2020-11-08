@@ -45,9 +45,9 @@ com seus gostos.
     
 2. App.css
 
-# Para rodar
+# Para rodar o projeto
 
-Opção1 - Acesse uma versão do projeto em Javascript clicando [aqui](https://kramerproject.github.io/projetos/Movie_list/index.html)
+Opção1 - Acesse a página clicando [aqui](https://kramerproject.github.io/The_movie_App/)
 
 Opção2 -  Baixar ou clonar o projeto na máquina e seguir os passos abaixo.
 
