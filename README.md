@@ -59,7 +59,7 @@ git clone git@github.com:kramerProject/The_movie_App.git
 2. Instalar o npm
 
 ```
-npm-install
+npm install
 ```
 3. Instalar o axios
 
@@ -69,5 +69,5 @@ npm install axios
 4. Iniciar a aplicação
 
 ```
-npm-start
+npm start
 ```
