@@ -29,9 +29,9 @@ com seus gostos.
 
 1. Para iniciar - clicar em Reload Pages, a ação vai retornar uma lista dos primeiros 20 filmes trending da semana.
 
-2. Para curtir ou deixar de curtir basta clicar em cima da imagem.
+2. Para curtir ou deixar de curtir basta clicar sobre a imagem.
 
-3. Após curtir os filmes, clicar em "make my day", a ação vai disparar uma chamada a Api de filmes buscando-os com base no genre_id referente aos filmes curtidos anteriormente. 
+3. Após curtir, clicar em "make my day", a ação vai disparar uma chamada a Api de filmes buscando-os com base nos generos de preferência. 
 
 # Estruturação:
 
@@ -45,25 +45,29 @@ com seus gostos.
     
 2. App.css
 
-# Para rodar o projeto
+# Para rodar
 
 Opção1 - Acesse uma versão do projeto em Javascript clicando [aqui](https://kramerproject.github.io/projetos/Movie_list/index.html)
 
-Opção2 -  Baixar o projeto na máquina e seguir os passos abaixo.
+Opção2 -  Baixar ou clonar o projeto na máquina e seguir os passos abaixo.
 
-1. Ter o node instalado
-
-```
-npm install node
+1. Clonar o projeto
 
 ```
-2. Instalar o axios
+git clone git@github.com:kramerProject/The_movie_App.git
+```
+2. Instalar o npm
+
+```
+npm-install
+```
+3. Instalar o axios
 
 ```
 npm install axios
-
 ```
+4. Iniciar a aplicação
+
 ```
 npm-start
-
 ```
