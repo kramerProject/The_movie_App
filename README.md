@@ -3,7 +3,7 @@
 # Objetivo:
 
 Criar um aplicativo em *React Native*, que tenha sugestões de filmes conforme o
-gosto do usuário, em que ele possa visualizar uma listagem de filmes e ser capaz de curtilos.
+gosto do usuário, em que ele possa visualizar uma listagem de filmes e ser capaz de curti-los.
 Por fim, o usuário deve conseguir visualizar uma listagem com filmes sugeridos de acordo
 com seus gostos.
 
@@ -21,9 +21,17 @@ com seus gostos.
 * Banco de dados à sua escolha
 * Design do app também é livre
 * Ter comentários para melhor entendimento do código
-* API para ser utilizada para listagem dos Filmes: _[clique aqui](https://developers.themoviedb.org/3/getting-started/introduction) 
+* API para ser utilizada para listagem dos Filmes: [clique aqui](https://developers.themoviedb.org/3/getting-started/introduction) 
 
 # Obs: Projeto foi desenvolvido em React, os arquivos pertinentes estão localizados na pasta movie-app/src.
+
+# Interação
+
+1. Para iniciar - clicar em Reload Pages, a ação vai retornar uma lista dos primeiros 20 filmes trending da semana.
+
+2. Para curtir ou deixar de curtir basta clicar em cima da imagem.
+
+3. Após curtir os filmes, clicar em "make my day", a ação vai disparar uma chamada a Api de filmes buscando-os com base no genre_id referente aos filmes curtidos anteriormente. 
 
 # Estruturação:
 
@@ -39,9 +47,9 @@ com seus gostos.
 
 # Para rodar o projeto
 
-Op1. Acesse uma versão do projeto em Javascript clicando [aqui]()
+Opção1 - Acesse uma versão do projeto em Javascript clicando [aqui](https://kramerproject.github.io/projetos/Movie_list/index.html)
 
-Op2. Baixar o projeto na máquina e seguir os passos abaixo.
+Opção2 -  Baixar o projeto na máquina e seguir os passos abaixo.
 
 1. Ter o node instalado
 
